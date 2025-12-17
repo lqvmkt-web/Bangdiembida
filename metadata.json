@@ -1,0 +1,7 @@
+{
+  "name": "BangdiemBida",
+  "description": "Professional Billiards Scoreboard application featuring Match Management, Scorekeeping for Carom/Libre/Pool, and Club Management integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
